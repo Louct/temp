@@ -1,0 +1,96 @@
+local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
+
+print("skidder loloolooololol") 
+
+local win = DiscordLib:Window("skid hub v2 nigga")
+
+local serv = win:Server("KYS", "")
+
+local btns = serv:Channel("shitty nigger info")
+
+btns:Button("super sigma script website (copies to clip)", function()
+    setclipboard("https://you.whimper.xyz/explorer/")
+    toclipboard("https://you.whimper.xyz/explorer/")
+DiscordLib:Notification("Notification", "Skid copied!", "KYS NIGGA!")
+end)
+
+btns:Seperator()
+
+btns:Button("press for n word", function()
+    setclipboard("Nigga KYS")
+    toclipboard("Nigga KYS")
+DiscordLib:Notification("Notification", "Nigga word copied!", "Fuck")
+end)
+
+btns:Button("press for something VERY COOL", function()
+       loadstring(game:HttpGet('https://pastebin.com/raw/H2mMT1T1'))()
+DiscordLib:Notification("Notification", "L!", "Fuck")
+end)
+
+
+btns:Seperator()
+
+
+local btns = serv:Channel("nigger admin")
+
+btns:Button("inf-yield", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+DiscordLib:Notification("Notification", "Opened Inf-Yield", "Ok!")
+end)
+
+
+local btns = serv:Channel("nigger chat")
+
+btns:Button("chat bypasser", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AnnaRoblox/AnnaBypasser/refs/heads/main/AnnaBypasser.lua",true))()
+DiscordLib:Notification("Notification", "Opened Anna-Bypasser", "Ok!")
+end)
+
+btns:Button("ideas for chat bypasser", function()
+    loadstring(game:HttpGet("https://you.whimper.xyz/saturnbyp.lua"))()
+DiscordLib:Notification("Notification", "Opened Anna-Bypasser", "Ok!")
+end)
+
+
+
+local btns = serv:Channel("actually shitty hacks")
+
+
+btns:Button("vapev4 (bedwars)", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+DiscordLib:Notification("Notification", "Opened VapeV4(might not work)", "Ok!")
+end)
+
+
+btns:Button("roblox got talent (piano)", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/Sad/main/NoKey"))()
+DiscordLib:Notification("Notification", "Opened Auto Piano", "Ok!")
+end)
+
+
+btns:Button("weed client (arsenal)", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ex55/weed-client/refs/heads/main/main.lua"))()
+DiscordLib:Notification("Notification", "Opened Weed-Client", "Ok!")
+end)
+
+
+btns:Button("Swordsman and more", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ywxoofc/specifier/refs/heads/main/FreeLoader.lua"))()
+DiscordLib:Notification("Notification", "Opened Swordsman and more", "Ok!")
+end)
+
+local btns = serv:Channel("trolls")
+
+
+btns:Button("Skibidi-Hub", function()
+    loadstring(game:HttpGet("https://gitlab.com/skibidi7575006/skibidiidi/-/raw/main/SKIBIDIIHUBB"))()
+DiscordLib:Notification("Notification", "Opened Skibidi-Hub", "Ok!")
+end)
+
+
+
+
+
+
+
+serv:Channel("by that nigga misty")
