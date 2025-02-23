@@ -88,6 +88,13 @@ DiscordLib:Notification("Notification", "Opened Skibidi-Hub", "Ok!")
 end)
 
 
+btns:Button("Roblox-Animations", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/BeemTZy/Motiona/refs/heads/main/source.lua"))()
+DiscordLib:Notification("Notification", "Opened Motiona", "Ok!")
+end)
+
+
+
 
 
 
