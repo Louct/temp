@@ -1,0 +1,159 @@
+local OrionLib = loadstring(game:HttpGet(('https://pastebin.com/raw/WRUyYTdY')))()
+
+
+local Window = OrionLib:MakeWindow({
+    Name = "super sigma skidded script hub",
+    HidePremium = false,
+    SaveConfig = true,
+    ConfigFolder = "NIGGER" 
+})
+
+print("skidder loloolooololol") 
+
+local Tab = Window:MakeTab({
+    Name = "shitty nigger",
+    Icon = "rbxassetid://1",
+    PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+    Name = "click and paste into chat (WILL 100% NOT SAY NIGGA)"
+})
+
+local playerName = game.Players.LocalPlayer.Name
+
+Tab:AddButton({
+    Name = "super sigma script website link (it copies to clipboard).",
+    Callback = function()
+        setclipboard("https://you.whimper.xyz/explorer/")
+        toclipboard("https://you.whimper.xyz/explorer/")
+  end    
+})
+
+Tab:AddButton({
+    Name = "press button for something cool.",
+    Callback = function()
+        setclipboard("NIGGER")
+        toclipboard("NIGGER")
+  end    
+})
+
+
+
+
+
+
+local Tab = Window:MakeTab({
+    Name = "nigger admin",
+    Icon = "rbxassetid://1",
+    PremiumOnly = false
+})
+
+
+
+Tab:AddButton({
+    Name = "Infinite Yield",
+    Callback = function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+  end    
+})
+
+
+local Tab = Window:MakeTab({
+    Name = "nigger chat",
+    Icon = "rbxassetid://1",
+    PremiumOnly = false
+})
+
+
+
+Tab:AddButton({
+    Name = "chat bypasser",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/AnnaRoblox/AnnaBypasser/refs/heads/main/AnnaBypasser.lua",true))()
+  end    
+})
+
+
+Tab:AddButton({
+    Name = "chat spoofer(makes u type as other ppl)",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
+  end    
+})
+
+
+
+Tab:AddButton({
+    Name = "ideas for chat bypasser (this doesnt work) ",
+    Callback = function()
+        loadstring(game:HttpGet("https://you.whimper.xyz/saturnbyp.lua"))()
+  end    
+})
+
+
+
+
+
+local Tab = Window:MakeTab({
+    Name = "actual shitty hacks",
+    Icon = "rbxassetid://1",
+    PremiumOnly = false
+})
+
+
+Tab:AddButton({
+    Name = "like uh swordsman script and random ass games",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/ywxoofc/specifier/refs/heads/main/FreeLoader.lua"))()
+  end    
+})
+
+
+Tab:AddButton({
+    Name = "arsenal weed script",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/ex55/weed-client/refs/heads/main/main.lua"))()
+  end    
+})
+
+
+
+Tab:AddButton({
+    Name = "vapev4/bedwars script",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+  end    
+})
+
+
+Tab:AddButton({
+    Name = "roblox got talent (piano only) ",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/Sad/main/NoKey"))()
+  end    
+})
+
+
+
+
+
+local Tab = Window:MakeTab({
+    Name = "trolls",
+    Icon = "rbxassetid://1",
+    PremiumOnly = false
+})
+
+
+
+
+Tab:AddButton({
+    Name = "skibidi hub ",
+    Callback = function()
+        loadstring(game:HttpGet("https://gitlab.com/skibidi7575006/skibidiidi/-/raw/main/SKIBIDIIHUBB"))()
+  end    
+})
+
+
+
+
